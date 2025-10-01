@@ -1,1 +1,150 @@
-# kitmarsh.github.io
+---
+title: "Friday-Night Bar Recommendations (hours to be updated)"
+align: left
+---
+# *Non-Dance Bars... Supposedly*
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D383821033922685&f=1&nofb=1&ipt=8a1cb7d24f07820a7f41d502bf9e93252ff6a04c5631607e0f5e3defea7f3655){fig-align="left" fig-border-left="#20B2AA" height="234"}
+
+## NYE'S Piano Bar
+- Website: [NYE'S Piano Bar](https://nyesmpls.com)
+- Hours: Friday 4:00pm - 2:00am
+- Price Range: ???
+- Pros: Likely there will be a piano player! Awesome!
+- Cons: Maybe limited seating? Never been there.
+
+<br>
+<br>
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5ddc90ce2a0cba70b8e1bb67%2F45e1efb7-cf7f-4259-8a00-4d8b930226fc%2FFullBar.jpg%3Fformat%3D1500w&f=1&nofb=1&ipt=376ec87d2061223557993cea12fac9930e7864ccc95159960e61c0badc89136d){fig-align="left" fig-border-left="#20B2AA" height="234"}
+
+## Briar Bar
+- Website: [Briar Bar](https://www.briarbar.com)
+- Hours: Friday 8:00 am - 11:00 pm
+- Price Range: low-to-mid
+- Pros: Been there once, good soup and cocktail selection from what I remember!
+- Cons: Maybe limited seating? Never been there.
+
+<br>
+<br>
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fexternal-preview.redd.it%2Fwith-dutch-bar-northeast-gets-an-intimate-timeless-space-v0-bzifXKLkoJuBvePr0rrVb_24SNm9GayRNoz62gj-GBk.jpg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3D566b4944407cfe141b2fa87f2b4dc63cd84795bc&f=1&nofb=1&ipt=76861e6a633f6c1cf34e0a150556ccd03f8464f51ce7751377e286f2d6f3cb56){fig-align="left" fig-border-left="#20B2AA" height="234"}
+
+## The Dutch Bar
+- Website: [The Dutch Bar](https://dutchbarnempls.com)
+- Hours: Friday 4:00 pm - 11:00 pm
+- Price Range: low 
+- Pros: Cute interior!
+- Cons: Maybe limited seating? Never been there.
+
+<br>
+<br>
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhospitalitysnapshots.com%2Fwp-content%2Fuploads%2Fsites%2F3%2F2019%2F05%2Fnolos-kitchen_5d8e96eaa0db4-1000x600.jpg&f=1&nofb=1&ipt=b360b1e8395e2576cbcc16785e73657d19cb5f713fd53114e3cc1dc788adac41){fig-align="left" fig-border-left="#20B2AA" height="234"}
+
+## Nolo's Kitchen
+- Website: [Nolo's Kitchen](https://noloskitchen.com)
+- Hours: Friday 8:00 am - 12:00 am
+- Price Range: mid
+- Pros: Highly renown!
+- Cons: May have to make a reservation! Maybe limited seating? Never been there.
+
+<br>
+<br>
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flede-admin.racketmn.com%2Fwp-content%2Fuploads%2Fsites%2F37%2F2022%2F06%2Flittle-tijuana-1.jpg&f=1&nofb=1&ipt=263363c3cfdc54d2ee1a02058e1a97f4bd6cbfe2856d5a8826c2a3bfc22c3be9){fig-align="left" fig-border-left="#20B2AA" height="234"}
+
+## Little Tijuana
+- Website: [Little Tijuana](https://www.littletijuanampls.com)
+- Hours: Friday 4:00 pm - 1:00 am
+- Price Range: low-to-mid
+- Pros: SUPER CUTE INTERIOR! Open late!
+- Cons: May not get a booth :(
+
+<br>
+<br>
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.theworlds50best.com%2Fdiscovery%2Ffilestore%2Fjpg%2FMeteor_Interior.jpg&f=1&nofb=1&ipt=038f9c56f022c5852938522db9b731867d8350cd99afcd3d9d633e82bd55aaf1){fig-align="left" fig-border-left="#20B2AA" height="234"}
+
+## Meteor
+- Website: [Meteor](https://www.meteormpls.com)
+- Hours: Friday 4:00 pm - 2:00 am
+- Price Range: low-to-mid
+- Pros: Fun drinks and I see booths in the pictures!
+- Cons: Hot dogs on the menu? Maybe limited seating? Never been there.
+
+<br>
+<br>
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthevendry.com%2Fcdn-cgi%2Fimage%2Fheight%3D1920%2Cwidth%3D1920%2Cfit%3Dcontain%2Cmetadata%3Dnone%2Fhttps%3A%2F%2Fs3.amazonaws.com%2Fuploads.thevendry.co%2F4180%2F1585017113154_Screen-Shot-2020-03-23-at-10.jpg&f=1&nofb=1&ipt=8c9c8470fcfd0d601e348ddbd001f230edae101223c7b05f1b84d6fc2cb16844){fig-align="left" fig-border-left="#20B2AA" height="234"}
+
+## Brit's Pub (Sports Bar?)
+- Website: [Brit's Pub](https://britspub.com/minneapolis-brit-s-pub-calendar)
+- Hours: Friday 11:00 am - 12:00 am
+- Price Range: mid
+- Pros: Highly renown!
+- Cons: Maybe limited seating? Never been there.
+
+# *Dance Bars*
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F1dea77_2a53012f6b7e4d108429bfbe0db5b116~mv2.jpg%2Fv1%2Ffit%2Fw_2500%2Ch_1330%2Cal_c%2F1dea77_2a53012f6b7e4d108429bfbe0db5b116~mv2.jpg&f=1&nofb=1&ipt=85a9db15ff749262a89d1b996287e052ccadd433ca7302d132e161384df5b088){fig-align="left" fig-border-left="#20B2AA" height="234"}
+
+## Basement Bar
+- Website: [Basement Bar](https://www.basementbarmpls.com)
+- Hours: Friday 4:00 pm - 2:00 am
+- Price Range: ???
+- Pros: Starts chill(ish), then turns into a dance bar.
+- Cons: Went once--there were a few creepers.
+
+<br>
+<br>
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3-media0.fl.yelpcdn.com%2Fbphoto%2FbCU3yI6H6fhr4s2P2z6O7A%2Fo.jpg&f=1&nofb=1&ipt=268235298620ff088c436d85ee11f4aa3f72ec824d99cdb86550f59363d95ce0){fig-align="left" fig-border-left="#20B2AA" height="234"}
+
+## Kollege Klub
+- Website: [Kollege Klub](https://kkminnesota.com)
+- Hours: Friday 12:00 pm - 2:00 am
+- Price Range: ???
+- Pros: Fun dance floor upstairs!
+- Cons: UofM students.
+
+<br>
+<br>
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.ava-lounge.de%2Fwp-content%2Fuploads%2F2016%2F10%2Fhalle_Z4A6052-e1477220616859.jpg&f=1&nofb=1&ipt=74934ddfad16404eb34d0b028d17152ec6812ca494151555c7ee2010d0e77e88){fig-align="left" fig-border-left="#20B2AA" height="234"}
+
+## AVA
+- Website: [AVA](https://www.avampls.com)
+- Hours: Friday 5:00 pm - 2:00 am
+- Price Range: ???
+- Pros: Disco!
+- Cons: Mid reviews?
+
+<br>
+<br>
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flavendermagazine-com.s3.us-east-2.amazonaws.com%2Fwp-content%2Fuploads%2F2022%2F08%2FIMG_1902.jpg&f=1&nofb=1&ipt=124fa25e162a9cb8f8780ac1db3c8e3723f6c77b7a5c31933b6082e6d7381525){fig-align="left" fig-border-left="#20B2AA" height="234"}
+
+## Jetset Underground
+- Website: [Jetset Underground](https://www.oldtownmpls.com/business-directory-blog/jetset)
+- Hours: Friday 5:00 pm - 2:00 am
+- Price Range: ???
+- Pros: Gay club! Good music last time I went.
+- Cons: Freaky (maybe a pro if you're into that). Cash only? Need to pay cover fee.
+
+<br>
+<br>
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipP946tt54KUMgec7jDhdYsb6JOQPQAQ-gcKPxZm&f=1&nofb=1&ipt=59a5569ae5117797698c668c73e8bea3f3f522258d6561b9ee3e38b7909596b3){fig-align="left" fig-border-left="#20B2AA" height="234"}
+
+## Ground Zero Nightclub
+- Website: [Ground Zero Nightclub](https://groundzeromn.com)
+- Hours: Friday 10:00 pm - 2:00 am
+- Price Range: ???
+- Pros: Goth club! September 19th is supposed to have a bunch of stuff going on for their themed dance nights.
+- Cons: Cash only. Freaky (maybe a pro if you're into that).
+
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
