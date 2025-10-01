@@ -2,6 +2,11 @@
 title: "Friday-Night Bar Recommendations (hours to be updated)"
 align: left
 ---
+```{r echo = FALSE}
+library(leaflet)
+library(shiny)
+```
+
 # *Non-Dance Bars... Supposedly*
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D383821033922685&f=1&nofb=1&ipt=8a1cb7d24f07820a7f41d502bf9e93252ff6a04c5631607e0f5e3defea7f3655){fig-align="left" fig-border-left="#20B2AA" height="234"}
 
@@ -12,7 +17,12 @@ align: left
 - Pros: Likely there will be a piano player! Awesome!
 - Cons: Maybe limited seating? Never been there.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2821.8631798717065!2d-93.26085848742125!3d44.987090470949475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b32d7e95fad967%3A0xbaba23105ffaba5b!2sNye&#39;s%20Bar!5e0!3m2!1sen!2sus!4v1759291469695!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+```{r echo = FALSE, output = TRUE, fig.height = 2}
+leaflet() %>%
+  addTiles() %>%
+  setView(lng = -93.2583420490431, lat = 44.9870510775309, zoom = 30) %>%
+  addMarkers(lng = -93.2583420490431, lat = 44.9870510775309)
+```
 
 <br>
 <br>
@@ -26,7 +36,12 @@ align: left
 - Pros: Been there once, good soup and cocktail selection from what I remember!
 - Cons: Maybe limited seating? Never been there.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11284.763109219864!2d-93.27578645424408!3d45.0007476175536!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b32dd80c6e75cb%3A0x7b0c06c60adf7244!2sThe%20Briar!5e0!3m2!1sen!2sus!4v1759291542900!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+```{r echo = FALSE, output = TRUE, fig.height = 2}
+leaflet() %>%
+  addTiles() %>%
+  setView(lng = -93.25736432588879, lat = 45.00074133756876, zoom = 30) %>%
+  addMarkers(lng = -93.25736432588879, lat = 45.00074133756876)
+```
 
 <br>
 <br>
@@ -40,7 +55,12 @@ align: left
 - Pros: Cute interior!
 - Cons: Maybe limited seating? Never been there.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2820.555650377519!2d-93.25018808742016!3d45.013644670949546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b32dd7de885db3%3A0x5dacf4ba97e44b46!2sDutch%20Bar!5e0!3m2!1sen!2sus!4v1759291580082!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+```{r echo = FALSE, output = TRUE, fig.height = 2}
+leaflet() %>%
+  addTiles() %>%
+  setView(lng = -93.24756436633241, lat = 45.01364564470654, zoom = 30) %>%
+  addMarkers(lng = -93.24756436633241, lat = 45.01364564470654)
+```
 
 <br>
 <br>
@@ -54,7 +74,12 @@ align: left
 - Pros: Highly renown!
 - Cons: May have to make a reservation! Maybe limited seating? Never been there.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5643.810776340086!2d-93.27820448742128!3d44.98623307094946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b332893126795f%3A0x76c86b43cf72621f!2sNOLO&#39;s%20Kitchen%20%26%20Bar!5e0!3m2!1sen!2sus!4v1759291616061!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+```{r echo = FALSE, output = TRUE, fig.height = 2}
+leaflet() %>%
+  addTiles() %>%
+  setView(lng = -93.27560739821052, lat = 44.986193111167445, zoom = 30) %>%
+  addMarkers(lng = -93.27560739821052, lat = 44.986193111167445)
+```
 
 <br>
 <br>
@@ -68,7 +93,12 @@ align: left
 - Pros: SUPER CUTE INTERIOR! Open late!
 - Cons: May not get a booth :(
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2823.425951856007!2d-93.27970488742257!3d44.95533647094942!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b3336bd4ec8ab3%3A0x634b0abb07abd1db!2sLittle%20Tijuana%20Neighborhood%20Lounge!5e0!3m2!1sen!2sus!4v1759291633891!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+```{r echo = FALSE, output = TRUE, fig.height = 2}
+leaflet() %>%
+  addTiles() %>%
+  setView(lng = -93.27719059355654, lat = 44.955323032285364, zoom = 30) %>%
+  addMarkers(lng = -93.27719059355654, lat = 44.955323032285364)
+```
 
 <br>
 <br>
@@ -82,7 +112,12 @@ align: left
 - Pros: Fun drinks and I see booths in the pictures!
 - Cons: Hot dogs on the menu? Maybe limited seating? Never been there.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2821.221145961943!2d-93.28308898742071!3d45.00013087094965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b3334c7d351a2b%3A0xb6484977c6ca71db!2sMeteor!5e0!3m2!1sen!2sus!4v1759291653558!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+```{r echo = FALSE, output = TRUE, fig.height = 2}
+leaflet() %>%
+  addTiles() %>%
+  setView(lng = -93.28040696928963, lat = 45.000122672492076, zoom = 30) %>%
+  addMarkers(lng = -93.28040696928963, lat = 45.000122672492076)
+```
 
 <br>
 <br>
@@ -96,7 +131,12 @@ align: left
 - Pros: Highly renown!
 - Cons: Maybe limited seating? Never been there.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2822.5666379064096!2d-93.27866788742185!3d44.97279907094943!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fcbc0770003c1%3A0xbba60f84a5c744c4!2sBrit&#39;s%20Pub!5e0!3m2!1sen!2sus!4v1759291681174!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+```{r echo = FALSE, output = TRUE, fig.height = 2}
+leaflet() %>%
+  addTiles() %>%
+  setView(lng = -93.27605908215125, lat = 44.97277652569318, zoom = 30) %>%
+  addMarkers(lng = -93.27605908215125, lat = 44.97277652569318)
+```
 
 # *Dance Bars*
 
@@ -109,7 +149,12 @@ align: left
 - Pros: Starts chill(ish), then turns into a dance bar.
 - Cons: Went once--there were a few creepers.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d45133.11303306934!2d-93.34830441060105!3d45.00828591287035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b33289312a5a63%3A0xe23d58e0410a11f0!2sThe%20Basement%20Bar!5e0!3m2!1sen!2sus!4v1759291703762!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+```{r echo = FALSE, output = TRUE, fig.height = 2}
+leaflet() %>%
+  addTiles() %>%
+  setView(lng = -93.27548237453213, lat = 44.986294809611955, zoom = 30) %>%
+  addMarkers(lng = -93.27548237453213, lat = 44.986294809611955)
+```
 
 <br>
 <br>
@@ -123,7 +168,12 @@ align: left
 - Pros: Fun dance floor upstairs!
 - Cons: UofM students.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2822.157300578075!2d-93.23942008742155!3d44.9811155709496!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b32d08e714756b%3A0x2323a03b1f91250b!2sKollege%20Klub%20Dinkytown!5e0!3m2!1sen!2sus!4v1759291721537!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+```{r echo = FALSE, output = TRUE, fig.height = 2}
+leaflet() %>%
+  addTiles() %>%
+  setView(lng = -93.2367950815483, lat = 44.98106172703744, zoom = 30) %>%
+  addMarkers(lng = -93.2367950815483, lat = 44.98106172703744)
+```
 
 <br>
 <br>
@@ -137,7 +187,12 @@ align: left
 - Pros: Disco!
 - Cons: Mid reviews?
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2821.9309274773263!2d-93.27378648742132!3d44.985714270949586!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b3330051f9a737%3A0xd73d9628d35c7c41!2sAVA!5e0!3m2!1sen!2sus!4v1759291741044!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+```{r echo = FALSE, output = TRUE, fig.height = 2}
+leaflet() %>%
+  addTiles() %>%
+  setView(lng = -93.27118973693646, lat = 44.98562262734087, zoom = 30) %>%
+  addMarkers(lng = -93.27118973693646, lat = 44.98562262734087)
+```
 
 <br>
 <br>
@@ -151,7 +206,12 @@ align: left
 - Pros: Gay club! Good music last time I went.
 - Cons: Freaky (maybe a pro if you're into that). Cash only? Need to pay cover fee.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2821.9309274773263!2d-93.27378648742132!3d44.985714270949586!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b32d3916930587%3A0x432675695b1fc485!2sJetset%20Underground!5e0!3m2!1sen!2sus!4v1759291759675!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+```{r echo = FALSE, output = TRUE, fig.height = 2}
+leaflet() %>%
+  addTiles() %>%
+  setView(lng = -93.25761508245486, lat = 44.98777160216777, zoom = 30) %>%
+  addMarkers(lng = -93.25761508245486, lat = 44.98777160216777)
+```
 
 <br>
 <br>
@@ -165,7 +225,12 @@ align: left
 - Pros: Goth club! September 19th is supposed to have a bunch of stuff going on for their themed dance nights.
 - Cons: Cash only. Freaky (maybe a pro if you're into that).
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2821.7700131789516!2d-93.25767128742116!3d44.98898297094965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b32d78fc1d20d7%3A0x4bc7950bd976c8a5!2sGround%20Zero%20Nightclub!5e0!3m2!1sen!2sus!4v1759291778909!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+```{r echo = FALSE, output = TRUE, fig.height = 2}
+leaflet() %>%
+  addTiles() %>%
+  setView(lng = -93.25507474202492, lat = 44.98897754475579, zoom = 30) %>%
+  addMarkers(lng = -93.25507474202492, lat = 44.98897754475579)
+```
 
 This is a Quarto website.
 

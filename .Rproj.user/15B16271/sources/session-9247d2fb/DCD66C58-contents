@@ -1,0 +1,38 @@
+project:
+  type: website
+
+website:
+  title: "A Night Out in Minneapolis"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+    background: "#15736e"
+    foreground: "#FFFFFF"
+    hover: "#20B2AA"
+
+format:
+  html:
+    page-layout: full
+    toc: true
+    toc-location: left
+    theme:
+      light: flatly
+      dark: darkly
+    sansfont: Avenir Next
+    mainfont: Avenir Next
+    css: styles.css
+    title-block-banner: "#20B2AA"
+    title-block-banner-color: "#FFFFFF"
+editor: source
+execute: 
+  echo: true
+  message: false
+  warning: false
+embed-resources: true
+fig-align: center
+code-overflow: wrap
+code-block-border-left: "#20B2AA"
+highlight-style: gruvbox
+
