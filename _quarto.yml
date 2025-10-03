@@ -25,13 +25,13 @@ format:
     css: styles.css
     title-block-banner: "#20B2AA"
     title-block-banner-color: "#FFFFFF"
+    fig-align: right
 editor: source
 execute: 
   echo: true
   message: false
   warning: false
 embed-resources: true
-fig-align: center
 code-overflow: wrap
 code-block-border-left: "#20B2AA"
 highlight-style: gruvbox
