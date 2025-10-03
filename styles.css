@@ -5,6 +5,31 @@
   margin: 1em 0; /* spacing around */
 }
 
+.cell-output-display {
+  border-left: 4px solid #20B2AA; /* left border */
+  padding-left: 1em; /* spacing inside */
+  margin: 1em 0; /* spacing around */
+}
+
+#demobox {
+  color: #15736e ;
+  background-color: #15736e ;
+  padding: 10px ;
+  border: 1px solid #15736e ;
+}
+
+.crop {
+        width: auto;
+        height: 234px;
+        overflow: hidden;
+    }
+
+    .crop img {
+        width: auto;
+        height: 234px;
+        margin: -75px 0 0 -100px;
+    }
+
 /* .navbar {
   background-color: #15736e !important;
 }
