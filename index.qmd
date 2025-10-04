@@ -45,8 +45,8 @@ leaflet() %>%
 leaflet() %>%
   addTiles() %>%
   setView(lng = -93.25736432588879, lat = 45.00074133756876, zoom = 17) %>%
-  addCircleMarkers(lng = -93.25736432588879, lat = 45.00074133756876, color = "#20B2AA", fillOpacity = 1) %>%
-  addProviderTiles('Stadia.AlidadeSmooth')
+  addCircleMarkers(lng = -93.25736432588879, lat = 45.00074133756876, color = "#20B2AA", fillOpacity = 1) #%>%
+  #addProviderTiles('Stadia.AlidadeSmooth')
 ```
 
 <div id="demobox">
@@ -68,8 +68,8 @@ leaflet() %>%
 leaflet() %>%
   addTiles() %>%
   setView(lng = -93.24756436633241, lat = 45.01364564470654, zoom = 17) %>%
-  addCircleMarkers(lng = -93.24756436633241, lat = 45.01364564470654, color = "#20B2AA", fillOpacity = 1) %>%
-  addProviderTiles('Stadia.AlidadeSmooth')
+  addCircleMarkers(lng = -93.24756436633241, lat = 45.01364564470654, color = "#20B2AA", fillOpacity = 1) #%>%
+  #addProviderTiles('Stadia.AlidadeSmooth')
 ```
 
 <div id="demobox">
@@ -114,8 +114,8 @@ leaflet() %>%
 leaflet() %>%
   addTiles() %>%
   setView(lng = -93.27719059355654, lat = 44.955323032285364, zoom = 17) %>%
-  addCircleMarkers(lng = -93.27719059355654, lat = 44.955323032285364, color = "#20B2AA", fillOpacity = 1) %>%
-  addProviderTiles('Stadia.AlidadeSmooth')
+  addCircleMarkers(lng = -93.27719059355654, lat = 44.955323032285364, color = "#20B2AA", fillOpacity = 1) #%>%
+  #addProviderTiles('Stadia.AlidadeSmooth')
 ```
 
 <div id="demobox">
@@ -137,8 +137,8 @@ leaflet() %>%
 leaflet() %>%
   addTiles() %>%
   setView(lng = -93.28040696928963, lat = 45.000122672492076, zoom = 17) %>%
-  addCircleMarkers(lng = -93.28040696928963, lat = 45.000122672492076, color = "#20B2AA", fillOpacity = 1) %>%
-  addProviderTiles('Stadia.AlidadeSmooth')
+  addCircleMarkers(lng = -93.28040696928963, lat = 45.000122672492076, color = "#20B2AA", fillOpacity = 1) #%>%
+  #addProviderTiles('Stadia.AlidadeSmooth')
 ```
 
 <div id="demobox">
@@ -160,8 +160,8 @@ leaflet() %>%
 leaflet() %>%
   addTiles() %>%
   setView(lng = -93.27605908215125, lat = 44.97277652569318, zoom = 17) %>%
-  addCircleMarkers(lng = -93.27605908215125, lat = 44.97277652569318, color = "#20B2AA", fillOpacity = 1) %>%
-  addProviderTiles('Stadia.AlidadeSmooth')
+  addCircleMarkers(lng = -93.27605908215125, lat = 44.97277652569318, color = "#20B2AA", fillOpacity = 1) #%>%
+  #addProviderTiles('Stadia.AlidadeSmooth')
 ```
 <div id="demobox">
 
@@ -182,8 +182,8 @@ leaflet() %>%
 leaflet() %>%
   addTiles() %>%
   setView(lng = -93.27548237453213, lat = 44.986294809611955, zoom = 17) %>%
-  addCircleMarkers(lng = -93.27548237453213, lat = 44.986294809611955, color = "#20B2AA", fillOpacity = 1) %>%
-  addProviderTiles('Stadia.AlidadeSmooth')
+  addCircleMarkers(lng = -93.27548237453213, lat = 44.986294809611955, color = "#20B2AA", fillOpacity = 1) #%>%
+  #addProviderTiles('Stadia.AlidadeSmooth')
 ```
 
 <div id="demobox">
@@ -205,8 +205,8 @@ leaflet() %>%
 leaflet() %>%
   addTiles() %>%
   setView(lng = -93.2367950815483, lat = 44.98106172703744, zoom = 17) %>%
-  addCircleMarkers(lng = -93.2367950815483, lat = 44.98106172703744, color = "#20B2AA", fillOpacity = 1) %>%
-  addProviderTiles('Stadia.AlidadeSmooth')
+  addCircleMarkers(lng = -93.2367950815483, lat = 44.98106172703744, color = "#20B2AA", fillOpacity = 1) #%>%
+  #addProviderTiles('Stadia.AlidadeSmooth')
 ```
 
 <div id="demobox">
@@ -228,8 +228,8 @@ leaflet() %>%
 leaflet() %>%
   addTiles() %>%
   setView(lng = -93.27118973693646, lat = 44.98562262734087, zoom = 17) %>%
-  addCircleMarkers(lng = -93.27118973693646, lat = 44.98562262734087, color = "#20B2AA", fillOpacity = 1) %>%
-  addProviderTiles('Stadia.AlidadeSmooth')
+  addCircleMarkers(lng = -93.27118973693646, lat = 44.98562262734087, color = "#20B2AA", fillOpacity = 1) #%>%
+  #addProviderTiles('Stadia.AlidadeSmooth')
 ```
 
 <div id="demobox">
@@ -251,8 +251,8 @@ leaflet() %>%
 leaflet() %>%
   addTiles() %>%
   setView(lng = -93.25761508245486, lat = 44.98777160216777, zoom = 17) %>%
-  addCircleMarkers(lng = -93.25761508245486, lat = 44.98777160216777, color = "#20B2AA", fillOpacity = 1) %>%
-  addProviderTiles('Stadia.AlidadeSmooth')
+  addCircleMarkers(lng = -93.25761508245486, lat = 44.98777160216777, color = "#20B2AA", fillOpacity = 1) #%>%
+  #addProviderTiles('Stadia.AlidadeSmooth')
 ```
 
 <div id="demobox">
@@ -274,8 +274,8 @@ leaflet() %>%
 leaflet() %>%
   addTiles() %>%
   setView(lng = -93.25507474202492, lat = 44.98897754475579, zoom = 17) %>%
-  addCircleMarkers(lng = -93.25507474202492, lat = 44.98897754475579, color = "#20B2AA", fillOpacity = 1) %>%
-  addProviderTiles('Stadia.AlidadeSmooth')
+  addCircleMarkers(lng = -93.25507474202492, lat = 44.98897754475579, color = "#20B2AA", fillOpacity = 1) #%>%
+  #addProviderTiles('Stadia.AlidadeSmooth')
 ```
 
 This is a Quarto website.
