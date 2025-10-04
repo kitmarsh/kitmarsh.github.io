@@ -91,8 +91,8 @@ leaflet() %>%
 leaflet() %>%
   addTiles() %>%
   setView(lng = -93.27560739821052, lat = 44.986193111167445, zoom = 17) %>%
-  addCircleMarkers(lng = -93.27560739821052, lat = 44.986193111167445, color = "#20B2AA", fillOpacity = 1) %>%
-  addProviderTiles('Stadia.AlidadeSmooth')
+  addCircleMarkers(lng = -93.27560739821052, lat = 44.986193111167445, color = "#20B2AA", fillOpacity = 1) #%>%
+  #addProviderTiles('Stadia.AlidadeSmooth')
 ```
 
 <div id="demobox">
